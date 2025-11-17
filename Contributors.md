@@ -1,1 +1,4 @@
-[Astrid Yuan]: https://github.com/astridyuan2/oim3640-first-contributions-2025fall.git
+- [Astrid Yuan](https://github.com/astridyuan2/oim3640-first-contributions-2025fall.git)
+- [Zhi Li](https://github.com/lzblack)
+- [Christian Russell Susanto](https://github.com/ChristianRussell-ship-it)
+- [Palak Gandhi](https://github.com/pgandhii)
