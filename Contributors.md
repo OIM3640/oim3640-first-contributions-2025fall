@@ -1,3 +1,4 @@
+- [Nicole Gaige](https://github.com/ngaige)
 - [Simon East](https://github.com/simonjeast/)
 - [Nidhi Rudraraju](https://github.com/nidhiraju10)
 - [Zhi Li](https://github.com/lzblack)
