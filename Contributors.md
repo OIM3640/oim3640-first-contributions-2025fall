@@ -1,3 +1,4 @@
+- [Bertrand Inshuti](https://github.com/binshuti)
 - [Saba Ali](https://github.com/Sabasali)
 - [Tarynea Aggarwal]()
 - [Astrid Yuan](https://github.com/astridyuan2)
