@@ -1,2 +1,6 @@
-[Zhi Li](https://github.com/lzblack)
-[Simon East](https://github.com/simonjeast/)
+- [Simon East](https://github.com/simonjeast/)
+- [Nidhi Rudraraju](https://github.com/nidhiraju10)
+- [Zhi Li](https://github.com/lzblack)
+- [Christian Russell Susanto](https://github.com/ChristianRussell-ship-it)
+- [Palak Gandhi](https://github.com/pgandhii)
+- [Sophia Pak](https://github.com/sophia-pak)
