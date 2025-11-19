@@ -1,3 +1,4 @@
+- [Thomas Song](https://github.com/tommysongsssss)
 - [Nicole Gaige](https://github.com/ngaige)
 - [Simon East](https://github.com/simonjeast/)
 - [Nidhi Rudraraju](https://github.com/nidhiraju10)
